@@ -129,11 +129,11 @@ form.signup input.form-control:focus {
 #wrapper {
 	text-align: center;
 	padding: 50px 0;
-	background: url(../img/main-bg.jpg) no-repeat center top;
+	background: url(../img/main-bg-min.jpg) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
-  min-height: 100%; 
-	width: 100%;	
+  min-height: 100%;
+	width: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -174,7 +174,7 @@ p.copyright {
 	margin-top: 50px;
 	color: #fff;
 	text-align: center;
-}	
+}
 
 
 .social ul {
